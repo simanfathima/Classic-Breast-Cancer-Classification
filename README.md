@@ -1,4 +1,5 @@
 # Classic-Breast-Cancer-Prediction-Using-Classification-Techniques
+Classify and assign patients to either a "Benign" or "Malignant" groups.
 
 # Objective:
 
@@ -31,4 +32,4 @@ URL : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28origin
 5. Decision Tree Classifier  - 95.9% accuracy.
 6. Randiom Forest Classifier - 93.5% accuracy.
 
-The Best Model to Predict Breast Cancer is therefore **Decision Tree classification Model with 95.9% accuracy**.
+The Best Model to Classify Breast Cancer is therefore **Decision Tree classification Model with 95.9% accuracy**.
