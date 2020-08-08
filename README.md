@@ -1,5 +1,4 @@
 # Classic-Breast-Cancer-Prediction-Using-Classification-Techniques
-Classify and assign patients to either a "Benign" or "Malignant" groups.
 
 # Objective:
 
