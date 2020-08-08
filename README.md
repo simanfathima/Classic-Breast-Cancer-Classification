@@ -24,11 +24,11 @@ URL : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28origin
 
 # Conclusion:
 
-1. Logistic Regression Classifier - .
-2. Support Vector Machine - .
-3. Naive Bayes Classifier - .
-4. K Nearest Neighbor Classifier - .
-5. Decision Tree Classifier - .
-6. Randiom Forest Classifier - .
+1. Logistic Regression Classifier - 94.7% accuracy.
+2. Support Vector Machine - 95.3% accuracy.
+3. Naive Bayes Classifier - 94.1% accuracy .
+4. K Nearest Neighbor Classifier - 94.7% accuracy.
+5. Decision Tree Classifier  - 95.9% accuracy.
+6. Randiom Forest Classifier - 93.5% accuracy.
 
-The Best Model to Predict Breast Cancer is therefore 
+The Best Model to Predict Breast Cancer is therefore **Decision Tree classification Model with 95.9% accuracy**.
